@@ -1,3 +1,3 @@
 # demo project 
 
-this project was created form local system.
+this project is only for demo but if you want to change it you can.
